@@ -58,5 +58,3 @@ You will notice additional files and folders appear in your project :
  
 ![Laravel web installer](http://public.froid.works/knap1.png)
 
-## Credits
-[RachidLaasri Installer](https://github.com/RachidLaasri/LaravelInstaller)
