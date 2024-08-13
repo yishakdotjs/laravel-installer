@@ -1,6 +1,6 @@
 # Laravel Web Installer
 
-[![Packagist License](https://poser.pugx.org/froiden/laravel-installer/license.png)]()
+[![Packagist License](https://poser.pugx.org/froiden/laravel-installer/license)]()
 [![Total Downloads](https://poser.pugx.org/froiden/laravel-installer/d/total.png)](https://packagist.org/packages/froiden/laravel-installer)
 
 Laravel Web installer checks for the following things and install the application in one go.
