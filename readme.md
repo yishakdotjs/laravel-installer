@@ -29,6 +29,15 @@ After updating composer, add the ServiceProvider to the providers array in `conf
 ];
 ```
 
+
+For laravel version 11.x and greater, add the serviceprovider to the providers array in `bootstrap/providers.php`.
+
+```
+[
+    Froiden\LaravelInstaller\Providers\LaravelInstallerServiceProvider::class,
+];
+```
+
 ## Usage
 
 Before using this package you need to run :
